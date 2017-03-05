@@ -1,2 +1,4 @@
 # govready-pbc-practices
-Public practices of GovReady PBC
+
+## About
+A repository of GovReady PBC's practices inspired by Python PEPs
