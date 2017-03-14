@@ -5,7 +5,7 @@ P-0 Index of GovReady PBC Practices
 ===================================
 
 | Key            | Details                                                                          |
-|----------------|:---------------------------------------------------------------------------------|
+|:---------------|:---------------------------------------------------------------------------------|
 | Practice:      | 0                                                                                |
 | Title:         | Index of GovReady PBC Practices                                                  |
 | Last-Modified: | 2017-03-11                                                                       |
@@ -33,7 +33,7 @@ Index by Category
 
 | num                                | title                                    | t | status            | owner                      |
 |-----------------------------------:|:-----------------------------------------|---|-------------------|----------------------------|
-|   [P-19](practices/p-0019.md)       | Interim Risk Management Strategy         | P | Active            | Elin                       |
+|   [P-19](practices/p-0019.md)      | Interim Risk Management Strategy         | P | Active            | Elin                       |
 
 
 ### Informational Practices
