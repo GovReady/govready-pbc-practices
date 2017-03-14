@@ -58,18 +58,12 @@ Key
 ===
 
 ### Type of Practice
+
 S - Standards Track Practice
 
 I - Informational Practice
 
 P - Process Practice
-
-### Status of Practice
-
-A - Active Practice
-
-D - Draft Practice
-
 
 </main>
 
