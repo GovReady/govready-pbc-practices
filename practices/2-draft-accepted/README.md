@@ -1,1 +1,0 @@
-Accepted drafts go in here
