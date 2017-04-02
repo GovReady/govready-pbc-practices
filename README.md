@@ -41,6 +41,7 @@ Index by Category
 | num                                | title                                    | t | status            | owner                      |
 |-----------------------------------:|:-----------------------------------------|---|-------------------|----------------------------|
 |    [P-0](practices/p-0000.md)      | Practices Index                          | I | Active            | Elin                       |
+|   [P-13](practices/p-0013.md)      | Credential Index                         | I | Active            | Elin                       |
 
 
 ### Draft Practices
