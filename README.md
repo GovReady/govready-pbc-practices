@@ -12,7 +12,9 @@ P-0 Index of GovReady PBC Practices
 | Author:        | Greg Elin <gregelin at govready.com>                                             |
 | Status:        | Active                                                                           |
 | Type:          | Informational                                                                    |
+| Confidentiality: | General public                                                                 |
 | Created:       | 05-Mar-2017                                                                      |
+| Post-History:  | 06-Nov-2017                                                                      |
 
 </header>
 
@@ -49,6 +51,14 @@ Index by Category
 | num                                | title                                    | t | status            | owner                      |
 |-----------------------------------:|:-----------------------------------------|---|-------------------|----------------------------|
 |    [P-1](practices/p-0001.md)      | Practices Purpose and Guidelines         | P | Draft             | Elin                       |
+
+
+### Practices
+
+| num                                | title                                    | t | status            | owner                      |
+|-----------------------------------:|:-----------------------------------------|---|:------------------|:---------------------------|
+|    [P-20](practices/p-0020.md)                | Acceptable Use Practices                 | P | Active            | Elin                       |
+
 
 
 ### Technical Standards Practices
