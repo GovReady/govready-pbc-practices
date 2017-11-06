@@ -12,7 +12,9 @@ P-0 Index of GovReady PBC Practices
 | Author:        | Greg Elin <gregelin at govready.com>                                             |
 | Status:        | Active                                                                           |
 | Type:          | Informational                                                                    |
+| Confidentiality: | General public                                                                 |
 | Created:       | 05-Mar-2017                                                                      |
+| Post-History:  | 06-Nov-2017                                                                      |
 
 </header>
 
