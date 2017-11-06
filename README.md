@@ -51,6 +51,14 @@ Index by Category
 |    [P-1](practices/p-0001.md)      | Practices Purpose and Guidelines         | P | Draft             | Elin                       |
 
 
+### Practices
+
+| num                                | title                                    | t | status            | owner                      |
+|-----------------------------------:|:-----------------------------------------|---|:------------------|:---------------------------|
+|    [P-1](practices/p-0020.md)                | Acceptable Use Practices                 | P | Active            | Elin                       |
+
+
+
 ### Technical Standards Practices
 
 None. See [Draft Practices](#draft practices).
