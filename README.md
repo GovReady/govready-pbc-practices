@@ -55,7 +55,7 @@ Index by Category
 
 | num                                | title                                    | t | status            | owner                      |
 |-----------------------------------:|:-----------------------------------------|---|:------------------|:---------------------------|
-|    [P-1](practices/p-0020.md)                | Acceptable Use Practices                 | P | Active            | Elin                       |
+|    [P-20](practices/p-0020.md)                | Acceptable Use Practices                 | P | Active            | Elin                       |
 
 
 
